@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+<<<<<<< HEAD
       <module fileurl="file://$PROJECT_DIR$/chain.iml" filepath="$PROJECT_DIR$/chain.iml" />
+=======
+      <module fileurl="file://$PROJECT_DIR$/Dtastructurewithjava.iml" filepath="$PROJECT_DIR$/Dtastructurewithjava.iml" />
+>>>>>>> c2075472bbd56334aa808343e3c61858ef303192
     </modules>
   </component>
 </project>
