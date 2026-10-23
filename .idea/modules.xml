@@ -2,7 +2,15 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+<<<<<<< HEAD
       <module fileurl="file://$PROJECT_DIR$/Data-structure-CH1git.iml" filepath="$PROJECT_DIR$/Data-structure-CH1git.iml" />
+=======
+<<<<<<< HEAD
+      <module fileurl="file://$PROJECT_DIR$/chain.iml" filepath="$PROJECT_DIR$/chain.iml" />
+=======
+      <module fileurl="file://$PROJECT_DIR$/Dtastructurewithjava.iml" filepath="$PROJECT_DIR$/Dtastructurewithjava.iml" />
+>>>>>>> c2075472bbd56334aa808343e3c61858ef303192
+>>>>>>> 81071d1ac2ab0d76d2ec758d913977d564059f8d
     </modules>
   </component>
 </project>
